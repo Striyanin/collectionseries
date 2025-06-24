@@ -925,8 +925,8 @@ https://calypso.tortuga.tw/content/stream/serials/barbarians.s02e04.postmodern.d
 #EXTINF:-1 group-title="Варвари" tvg-logo="https://i.postimg.cc/8cv5M9Q6/Screenshot-42.jpg", 2-5 Приречені
 https://calypso.tortuga.tw/content/stream/serials/barbarians.s02e05.postmodern.dub_82906/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Варвари" tvg-logo="https://i.postimg.cc/vHzykbzm/Screenshot-44.jpg", 2-6 Ціна
-#EXT-X-MEDIA:TYPE=SUBTITLES,LANGUAGE="uk",NAME="Украинские субтитры",AUTOSELECT=YES,DEFAULT=YES,URI="https://ashdi.vip/player/subtitle/82907_ua.vtt"
 https://calypso.tortuga.tw/content/stream/serials/barbarians.s02e06.postmodern.dub_82907/hls/1080/index.m3u8
+https://ashdi.vip/player/subtitle/77784_ua.vtt
 
 # Рим 1 сезон
 #EXTINF:-1 group-title="Рим" tvg-logo="https://images.kinorium.com/movie/shot/299338/w1500_49757387.jpg", 1-1 Вкрадений орел
