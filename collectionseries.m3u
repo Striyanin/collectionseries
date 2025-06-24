@@ -924,7 +924,8 @@ https://calypso.tortuga.tw/content/stream/serials/barbarians.s02e03.postmodern.d
 https://calypso.tortuga.tw/content/stream/serials/barbarians.s02e04.postmodern.dub_82905/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Варвари" tvg-logo="https://i.postimg.cc/8cv5M9Q6/Screenshot-42.jpg", 2-5 Приречені
 https://calypso.tortuga.tw/content/stream/serials/barbarians.s02e05.postmodern.dub_82906/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Варвари" tvg-logo="https://i.postimg.cc/vHzykbzm/Screenshot-44.jpg", 2-6 Ціна, sub-file="https://ashdi.vip/player/subtitle/77784_ua.vtt.vtt"
+#EXTINF:-1 group-title="Варвари" tvg-logo="https://i.postimg.cc/vHzykbzm/Screenshot-44.jpg", 2-6 Ціна
+#EXTVLCOPT:sub-file=https://ashdi.vip/player/subtitle/77784_ua.vtt
 https://ashdi.vip/video24/1/serials/barbarians_s2/barbarians.s02e06.2022.nf.webdl.1080putopia_77784/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
 # Рим 1 сезон
