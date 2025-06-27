@@ -1,14 +1,14 @@
 #EXTM3U refresh="86400"
 #EXTINF:-1 group-title="collectionseries"
 
-# СЕЗОН 1: Гра престолів
+# Гра престолів 1
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39369268.jpg", 1-1 Зима близько
 https://ashdi.vip/video21/3/serials/game_of_thrones_s1/game_of_thrones_2011__s01e01__winter_is_coming__uhd_bdremux_4k_2160p_h.265_hevc_hdr_10_ukr_eng_sub_ukr_multilang_hurtom_88909/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39362852.jpg", 1-2 Королівський тракт
 https://ashdi.vip/video21/3/serials/game_of_thrones_s1/game_of_thrones_2011__s01e02__the_kingsroad__uhd_bdremux_4k_2160p_h.265_hevc_hdr_10_ukr_eng_sub_ukr_multilang_hurtom_88910/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39360337.jpg", 1-3 Лорд Сноу
 https://ashdi.vip/video21/3/serials/game_of_thrones_s1/game_of_thrones_2011__s01e03__lord_snow__uhd_bdremux_4k_2160p_h.265_hevc_hdr_10_ukr_eng_sub_ukr_multilang_hurtom_88911/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
-#EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39357534.jpg", 1-4 Каліки бастарди й зламані речі
+#EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39357534.jpg", 1-4 Каліки бастарди та зламані речі
 https://ashdi.vip/video21/3/serials/game_of_thrones_s1/game_of_thrones_2011__s01e04__cripples_bastards_and_broken_things_uhd_bdremux_4k_2160p_h.265_hevc_hdr_10_ukr_eng_sub_ukr_multilang_hurtom_88912/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39354495.jpg", 1-5 Вовк та Лев
 https://ashdi.vip/video21/3/serials/game_of_thrones_s1/game_of_thrones_2011__s01e05__the_wolf_and_the_lion_uhd_bdremux_4k_2160p_h.265_hevc_hdr_10_ukr_eng_sub_ukr_multilang_hurtom_88913/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
@@ -23,7 +23,7 @@ https://ashdi.vip/video21/1/serials/game_of_thrones_s1/game_of_thrones_2011__s01
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39340420.jpg", 1-10 Полум'я та кров
 https://ashdi.vip/video21/3/serials/game_of_thrones_s1/game_of_thrones_2011__s01e10__fire_and_blood__uhd_bdremux_4k_2160p_h.265_hevc_hdr_10_ukr_eng_sub_ukr_multilang_hurtom_88918/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 2: Гра престолів
+# Гра престолів 2
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39337279.jpg", 2-1 Північ пам’ятає
 https://ashdi.vip/video22/3/serials/s02/game_of_thrones_s2e1_112951/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39335396.jpg", 2-2 Землі ночі
@@ -45,7 +45,7 @@ https://ashdi.vip/video22/1/serials/s02/game_of_thrones_s2e9_112960/hls/1080/BK+
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39304917.jpg", 2-10 Валар моргуліс
 https://ashdi.vip/video22/1/serials/s02/game_of_thrones_s2e10_112952/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 3: Гра престолів
+# Гра престолів 3
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39318085.jpg", 3-1 Валар дохаеріс 
 https://ashdi.vip/video22/3/serials/game_of_thrones/s03/game_of_thrones_s3e1_113069/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39312365.jpg", 3-2 Темні крила темні вісті
@@ -67,7 +67,7 @@ https://ashdi.vip/video22/1/serials/game_of_thrones/s03/game_of_thrones_s3e9_113
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://i.postimg.cc/CKQF9F0D/Screenshot-32.jpg", 3-10 Міса       
 https://ashdi.vip/video22/1/serials/game_of_thrones/s03/game_of_thrones_s3e10_113070/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 4: Гра престолів
+# Гра престолів 4
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://i.postimg.cc/Zq2SVVPx/Screenshot-33.jpg", 4-1 Два мечі
 https://ashdi.vip/video22/1/serials/s04/game_of_thrones_s4e1_113209/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39278546.jpg", 4-2 Лев і троянда
@@ -89,7 +89,7 @@ https://ashdi.vip/video22/1/serials/s04/game_of_thrones_s4e9_113218/hls/1080/BK+
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39241409.jpg", 4-10 Діти
 https://ashdi.vip/video22/1/serials/s04/game_of_thrones_s4e10_113210/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 5: Гра престолів
+# Гра престолів 5
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39233858.jpg", 5-1 Прийдешні війни
 https://ashdi.vip/video22/1/serials/s05/game_of_thrones_s5e1_113298/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39232265.jpg", 5-2 Дім чорного й білого
@@ -111,7 +111,7 @@ https://ashdi.vip/video22/1/serials/s05/game_of_thrones_s5e9_113307/hls/1080/BK+
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39371581.jpg", 5-10 Милосердя матері
 https://ashdi.vip/video22/1/serials/s05/game_of_thrones_s5e10_113299/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 6: Гра престолів
+# Гра престолів 6
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39185430.jpg", 6-1 Жінка у червоному
 https://ashdi.vip/video22/1/serials/s06/game_of_thrones_s6e1_113312/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39181682.jpg", 6-2 Додому
@@ -133,7 +133,7 @@ https://ashdi.vip/video22/1/serials/s06/game_of_thrones_s6e9_113321/hls/1080/BK+
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39152072.jpg", 6-10 Вітри зими
 https://ashdi.vip/video22/1/serials/s06/game_of_thrones_s6e10_113313/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 7: Гра престолів
+# Гра престолів 7
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39140437.jpg", 7-1 Драконів Камінь
 https://ashdi.vip/video22/1/serials/s07/game_of_thrones_s7e1_113322/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39142758.jpg", 7-2 Буренароджена
@@ -149,7 +149,7 @@ https://ashdi.vip/video22/1/serials/s07/game_of_thrones_s7e6_113327/hls/1080/BK+
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39109651.jpg", 7-7 Дракон і вовк
 https://ashdi.vip/video22/1/serials/s07/game_of_thrones_s7e7_113328/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 
-# СЕЗОН 8: Гра престолів
+# Гра престолів 8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39097966.jpg", 8-1 Вінтерфелл
 https://ashdi.vip/video22/1/serials/s08/game_of_thrones_s8e1_113391/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Гра престолів" tvg-logo="https://images.kinorium.com/movie/shot/406384/w1500_39092315.jpg", 8-2 Лицар Семи Королівств
